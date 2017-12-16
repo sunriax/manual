@@ -1,0 +1,76 @@
+﻿# **SUNriaX Technology!**
+---
+**HTTP:** [www.sunriax.at](www.sunriax.at)   
+**MAIL:** [www.sunriax.at/contact](www.sunriax.at/contact) 
+
+![SUNriaX Logo](https://raw.githubusercontent.com/sunriax/manual/master/docs/image/logo.png "SUNriaX Logo")
+
+License is deposited at [license.md](https://github.com/sunriax/manual/blob/master/license.md)
+Warranty is deposited at [warranty.md](https://github.com/sunriax/manual/blob/master/warranty.md) 
+
+**Copyright** (c) **2017 SUNriaX Technology, all rights reserved!**
+
+
+## Description
+---
+The aim of our project is to help people building their applications and lern how they work. Also we try to abstract the hardware from the software to keep the software portable.
+
+**We try to distribute our inspiration to other people and maybe we get some inspiration back...**
+
+If there are any further questions feel free to start an issue or contact us, we try to react as quick as possible.
+
+
+## Development Hardware
+---
+1. uController
+   * STK500 (Atmel)
+   * Megacard (HTL-Rankweil)
+   * SAM3U-EK (Atmel)
+1. FPGA
+   * Basys3 (Digilent)
+   * Terasic-DE1 (Altera)
+   * Arietta G25 (ACME-Systems)
+1. Linux Platform
+   * rPI 3 (Raspberry Pi Foundation)
+   * Analog Discovery 2 (Digilent)
+
+
+## Development Software
+---
+1. Hardware (uC/FPGA)
+   * Atmel Studio (uC C/C++)
+   * Xilinx Vivado (VHDL/Bd)
+   * Quartus II (VHDL/Bd)
+1. Software (Windows/Linux)
+   * QT Creator (C/C++)
+   * Eclipse (C/C++)
+   * Visual Studio (C#/.netCORE/R)
+1. Simulation/Analysis/Communication
+   * SciLab/Xcos
+   * LTSpice XVII/Tina TI
+   * Logisim
+   * WaveForms (Oszilloscope)
+   * Wireshark (Network Monitor)
+   * Putty/TeraTerm (COM/SSH Console)
+1. Schematic/PCB Development
+   * Eagle
+   * KiCAD
+1. Documentation
+   * Structorizer (Software Flow)
+   * Bizagi Modeler (Flowcharts)
+   * TeXstudio/TeXmaker (LaTeX)
+1. Graphical
+   * yEd
+   * GIMP 2
+
+
+## Additional Information
+---
+You can find more additional information in this [repository](./docs/manual.md) and/or visit the [SUNriaX Project Wikipedia](https://wiki.sunriax.at/) for further information (currently under construction)
+
+
+## Dedication
+---
+This scripts are dedicated to my father (Harald GÄCHTER), who taught me all this computer stuff. It is also dedicated to my girlfriend Pia, who taught me that even the biggest task can only be achieved if it is done step by step. Also many thanks to my teachers (Dr. Neier, Mag. Vogel, DI Büsel and DI Dörler) @ HTL-Rankweil who supported me to improve my knowledge in electronics and information technology.
+
+**R. GÄCHTER, Rankweil Dec/2017**
