@@ -1,5 +1,8 @@
 ﻿# **SUNriaX Technology!**
 ---
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Slack: Join](https://img.shields.io/badge/Slack-Join-blue.svg)(https://join.slack.com/t/sunriax-technology/shared_invite/enQtMjg3OTE2MjIyMTE2LTU1MmEwNmY5Y2Y3MTNjNzFhYzE5NTFkYWY4NzE0YmQzNzA5NjBkMWQ3ODkyNDI1NjJmMGIwYzMwOGI5ZjA2MDg)]
+
 **HTTP:** [www.sunriax.at](www.sunriax.at)   
 **MAIL:** [www.sunriax.at/contact](www.sunriax.at/contact) 
 
@@ -71,6 +74,6 @@ You can find more additional information in this [repository](./docs/manual.md) 
 
 ## Dedication
 ---
-This scripts are dedicated to my father (Harald GÄCHTER), who taught me all this computer stuff. It is also dedicated to my girlfriend Pia, who taught me that even the biggest task can only be achieved if it is done step by step. Also many thanks to my teachers (Dr. Neier, Mag. Vogel, DI Büsel and DI Dörler) @ HTL-Rankweil who supported me to improve my knowledge in electronics and information technology.
+This scripts are dedicated to my father (Harald GÄCHTER), who taught me all this computer stuff. It is also dedicated to my girlfriend Pia, who taught me that even the biggest aim can only be achieved if it is done step by step. Also many thanks to my teachers (Dr. Neier, Mag. Vogel, DI Büsel and DI Dörler) @ HTL-Rankweil who supported me to improve my knowledge in electronics and information technology.
 
 **R. GÄCHTER, Rankweil Dec/2017**
