@@ -8,5 +8,6 @@ _This repository is free software: you can redistribute it and/or modify it unde
 
 **Copyright (c) 2017 SUNriaX Project, all rights reserved**  
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  
+
 ---
 **R. GÄCHTER, Rankweil Dec/2017**
