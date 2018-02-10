@@ -8,8 +8,8 @@
 
 ![SUNriaX Logo](https://raw.githubusercontent.com/sunriax/manual/master/docs/image/logo.png "SUNriaX Logo")
 
-License is deposited at [license.md](https://github.com/sunriax/manual/blob/master/license.md)
-Warranty is deposited at [warranty.md](https://github.com/sunriax/manual/blob/master/warranty.md) 
+License is deposited at [LICENSE.md](https://github.com/sunriax/manual/blob/master/LICENSE.md)
+Warranty is deposited at [WARRANTY.md](https://github.com/sunriax/manual/blob/master/WARRANTY.md) 
 
 **Copyright (c) 2017 SUNriaX Technology, all rights reserved!**
 
