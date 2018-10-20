@@ -69,7 +69,7 @@ If there are any further questions feel free to start an issue or contact us, we
 
 ## Additional Information
 
-You can find more additional information in this [repository](./docs/manual.md) and/or visit the [SUNriaX Project Wikipedia](https://wiki.sunriax.at/) for further information (currently under construction)
+You can find more additional information in this [repository](./docs/manual.md) and/or visit the [WIKI](https://wiki.sunriax.at/) for further information (currently under construction)
 
 
 ## Dedication
